@@ -4,7 +4,7 @@
 
 
 var config = {
-    db
+
 };
 
 export default config;
